@@ -1,0 +1,127 @@
+[
+    {
+        "restaurant_id": 1,
+        "year": 2021,
+        "sales": 120
+    },
+    {
+        "restaurant_id": 1,
+        "year": 2022,
+        "sales": 135
+    },
+    {
+        "restaurant_id": 1,
+        "year": 2023,
+        "sales": 150
+    },
+    {
+        "restaurant_id": 1,
+        "year": 2024,
+        "sales": 165
+    },
+    {
+        "restaurant_id": 1,
+        "year": 2025,
+        "sales": 180
+    },
+    {
+        "restaurant_id": 2,
+        "year": 2021,
+        "sales": 90
+    },
+    {
+        "restaurant_id": 2,
+        "year": 2022,
+        "sales": 100
+    },
+    {
+        "restaurant_id": 2,
+        "year": 2023,
+        "sales": 110
+    },
+    {
+        "restaurant_id": 2,
+        "year": 2024,
+        "sales": 130
+    },
+    {
+        "restaurant_id": 2,
+        "year": 2025,
+        "sales": 145
+    },
+    {
+        "restaurant_id": 3,
+        "year": 2021,
+        "sales": 200
+    },
+    {
+        "restaurant_id": 3,
+        "year": 2022,
+        "sales": 210
+    },
+    {
+        "restaurant_id": 3,
+        "year": 2023,
+        "sales": 220
+    },
+    {
+        "restaurant_id": 3,
+        "year": 2024,
+        "sales": 230
+    },
+    {
+        "restaurant_id": 3,
+        "year": 2025,
+        "sales": 250
+    },
+    {
+        "restaurant_id": 4,
+        "year": 2021,
+        "sales": 60
+    },
+    {
+        "restaurant_id": 4,
+        "year": 2022,
+        "sales": 75
+    },
+    {
+        "restaurant_id": 4,
+        "year": 2023,
+        "sales": 90
+    },
+    {
+        "restaurant_id": 4,
+        "year": 2024,
+        "sales": 105
+    },
+    {
+        "restaurant_id": 4,
+        "year": 2025,
+        "sales": 120
+    },
+    {
+        "restaurant_id": 5,
+        "year": 2021,
+        "sales": 150
+    },
+    {
+        "restaurant_id": 5,
+        "year": 2022,
+        "sales": 160
+    },
+    {
+        "restaurant_id": 5,
+        "year": 2023,
+        "sales": 170
+    },
+    {
+        "restaurant_id": 5,
+        "year": 2024,
+        "sales": 185
+    },
+    {
+        "restaurant_id": 5,
+        "year": 2025,
+        "sales": 200
+    }
+]
